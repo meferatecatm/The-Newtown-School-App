@@ -1,0 +1,14 @@
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+#map{
+    display: flex;
+    justify-content: center;
+}
+#onlineclass{
+    display: flex;
+    justify-content: center;
+}
